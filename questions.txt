@@ -1,0 +1,15 @@
+What does DBMS stand for?,Data Base Management System,Database Management Source,Data Block Management System,Data Base Multiple Systems,Data Base Management System
+Which of the following is a key feature of DBMS?,Data Redundancy Control,Data Storage Management,Data Integrity,All of the above,All of the above
+Which command is used to retrieve data from a database?,GET,SELECT,FETCH,QUERY,SELECT
+Which of the following is NOT a type of DBMS model?,Hierarchical Model,Relational Model,Object-Oriented Model,Linear Model,Linear Model
+What is a primary key in a database?,A unique identifier for each record in a table,A key used to encrypt data,A key used for indexing,A key to group similar records,A unique identifier for each record in a table
+What does the term 'Phishing' refer to?,The act of hacking into a computer system,The use of fraudulent emails to steal sensitive information,A type of virus that destroys files,A technique for encrypting passwords,The use of fraudulent emails to steal sensitive information
+Which of the following is a common method for protecting sensitive data?,Encryption,Password hashing,Two-factor authentication,All of the above,All of the above
+What does the acronym 'DDoS' stand for?,Distributed Denial of Service,Digital Data Online System,Data Distribution Over Server,Direct Denial of Service,Distributed Denial of Service
+Which of the following is a tool used for penetration testing?,Wireshark,Nmap,Metasploit,All of the above,All of the above
+What is the purpose of a firewall in cybersecurity?,To detect malware,To monitor network traffic,To prevent unauthorized access to a network,To encrypt sensitive data,To prevent unauthorized access to a network
+Which of the following is a network security protocol?,HTTP,HTTPS,FTP,SNMP,HTTPS
+What does VPN stand for in network security?,Virtual Private Network,Virtual Protected Network,Virtual Public Network,Verified Protection Network,Virtual Private Network
+Which of the following is a common attack method in network security?,Man-in-the-Middle (MITM) attack,Phishing,SQL Injection,All of the above,All of the above
+What is the purpose of an Intrusion Detection System (IDS)?,To monitor and detect malicious network activity,To prevent unauthorized access to a network,To block all network traffic,To provide network access control,To monitor and detect malicious network activity
+Which protocol is commonly used for securing email communication?,HTTP,POP3,SMTP,S/MIME,S/MIME
